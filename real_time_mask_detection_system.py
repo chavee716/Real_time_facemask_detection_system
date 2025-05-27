@@ -32,9 +32,9 @@ VISUALIZATION_PATH = "visualizations"  # Path to save visualizations
 # Email Configuration
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_SENDER = "saviikzzx@gmail.com"  # Update with your email
-EMAIL_PASSWORD = "xkxc sbiv eavo rxcg"    # Use app password for Gmail
-EMAIL_RECEIVER = "chaveend@gmail.com" # Update with receiver email
+EMAIL_SENDER = "sender@gmail.com"  # Update with your email
+EMAIL_PASSWORD = "xxxxxxxxxxxxxx"    # Use app password for Gmail
+EMAIL_RECEIVER = "receiver@gmail.com" # Update with receiver email
 EMAIL_SUBJECT = "ALERT: Person Without Mask Detected"
 
 # Initialize global variables
